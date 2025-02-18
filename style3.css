@@ -1,0 +1,98 @@
+.contact-page,
+.contact-page * {
+  box-sizing: border-box;
+}
+.contact-page {
+  background: var(--schemes-secondary-fixed-dim, #ccc2dc);
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.bmgt-407 {
+  color: #f5f5f5;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 80px;
+  top: 40px;
+}
+.frame-1 {
+  display: flex;
+  flex-direction: row;
+  gap: 99px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 513px;
+  height: 98px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+}
+.homepage {
+  color: #f5f5f5;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: relative;
+}
+.about {
+  color: #f5f5f5;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: relative;
+}
+.contact {
+  color: #f5f5f5;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: relative;
+}
+.contact-us {
+  color: var(--grays-white, #ffffff);
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - 640px);
+  top: 165px;
+}
+.reach-out-to-the-course-team-for-support-or-inquiries {
+  color: #f5f5f5;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - 640px);
+  top: 286px;
+  width: 1284px;
+  height: 65px;
+}
+.professor-contact-paul-t-shapiro-pshapiro-umd-edu {
+  color: #f5f5f5;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 80px;
+  top: 413px;
+}
+.ta-contact-bharath-sreekumar-bsreekum-umd-edu-caifu-lin-clin-0817-terpmail-umd-edu-sumanth-devara-sdevara-umd-edu {
+  color: #f5f5f5;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 80px;
+  top: 553px;
+}
